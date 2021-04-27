@@ -1,0 +1,2 @@
+# crudo
+Django task
